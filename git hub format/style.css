@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.header-point  h1{
+    text-align: center;
+    background-color: aqua;
+
+}
+.header-point h2{
+    text-align: center;
+    background-color: blanchedalmond; 
+}
